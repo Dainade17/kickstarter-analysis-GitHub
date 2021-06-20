@@ -13,6 +13,7 @@ I did not face any major challenges however here are two points worth mentioning
 - Ensuring to count the number of rows. and columns expected to match with the required result and graphs
 
 Results:
+
 i  - May and June were the most successful launch months for the theatre campaign
    - December was the least successful month and success and failed numbers were almost equal
 
