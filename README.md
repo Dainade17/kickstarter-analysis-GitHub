@@ -22,4 +22,6 @@ Results:
 3. - The dates were not provided in actual date format
    - More backer information like age group / gender could have helped understand the semantic
 
-4. 
+4. Other possible analysis graphs:
+   - Total success rate based on Countries
+   - Success rate based on Categories
